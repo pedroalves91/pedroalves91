@@ -1,4 +1,4 @@
-<div style=“background: linear-gradient(to top, #30cfd0 0%, #330867 100%);”>
+<body style=“background: linear-gradient(to top, #30cfd0 0%, #330867 100%);”>
   <h2 align="center">🚀 Full Stack Developer | MERN Stack 🚀</h2>
   <div>
     <h3> 💻 Languages I speak | 🛠 Tools I use </h3>
@@ -10,4 +10,4 @@
     <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   </div>
-</div>
+</body>
