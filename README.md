@@ -4,3 +4,10 @@
 
 ### I'm a Software, Android and Web Developer
 #### MERN stack enthusiast
+
+<p align="right">
+  <img src="https://github.com/pedroalves91/pedroalves91/blob/main/mongo.svg" width=50px height=50px/>
+  <img src="https://github.com/pedroalves91/pedroalves91/blob/main/express.svg" width=50px height=50px/>
+  <img src="https://github.com/pedroalves91/pedroalves91/blob/main/node.svg" width=50px height=50px/>
+  <img src="https://github.com/pedroalves91/pedroalves91/blob/main/react.svg" width=50px height=50px/>
+</p>
