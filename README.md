@@ -22,6 +22,8 @@
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" width=50px height=50px/>
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/html.svg" width=50px height=50px/>
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/css.svg" width=50px height=50px/>
+</p>
+<p align="left">
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" width=50px height=50px/>
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/database.svg" width=50px height=50px/>
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs.svg" width=50px height=50px/>
