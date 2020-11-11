@@ -3,7 +3,7 @@
 # Hi, I'm Pedro 👋
 
 ### I'm a Software, Android and Web Developer
-#### <MERN /> stack enthusiast
+#### \<MERN \/\> stack enthusiast
 
 <p align="left">
   <img src="https://github.com/pedroalves91/pedroalves91/blob/main/mongo.svg" width=50px height=50px/>
@@ -12,7 +12,7 @@
   <img src="https://github.com/pedroalves91/pedroalves91/blob/main/react.svg" width=50px height=50px/>
 </p>
 
-#### 💻 Languages I speak    &&    🛠 Tools I use
+#### 💻 Languages I speak&nbsp&nbsp&nbsp\&\&&nbsp&nbsp&nbsp&nbsp🛠 Tools I use
 
 <p align="left">
   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/c.svg" width=50px height=50px/>
