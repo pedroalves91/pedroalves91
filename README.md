@@ -2,7 +2,7 @@
 
 # Hi, I'm Pedro 👋
 
-### I'm a Software, Android and Web Developer
+### I'm a Software/Web Developer
 #### \<MERN \/\> stack enthusiast
 
 <p align="left">
