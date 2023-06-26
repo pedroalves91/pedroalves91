@@ -2,8 +2,8 @@
 
 # Hi, I'm Pedro 👋
 
-### I'm a Software/Web Developer
-#### \<MERN \/\> stack enthusiast
+### I'm a Software Engineer
+#### \<Backend \/\> stack enthusiast
 
 <p align="left">
   <img src="https://github.com/pedroalves91/pedroalves91/blob/main/mongo.svg" width=50px height=50px/>
