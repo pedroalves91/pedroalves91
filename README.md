@@ -21,3 +21,4 @@
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width=50px height=50px/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalves91&show_icons=true&theme=radical)
