@@ -18,4 +18,5 @@
   <img src="https://github.com/pedroalves91/pedroalves91/blob/main/command-line.svg" width=50px height=50px/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width=50px height=50px/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width=50px height=50px/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width=50px height=50px/>
 </p>
