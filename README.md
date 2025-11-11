@@ -22,4 +22,5 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width=50px height=50px/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=50px height=50px/>
   <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" width=50px height=50px/>
+  <img src="https://img.icons8.com/?size=100&id=ZGr3TdkIdbkp&format=png&color=000000" width=50px height=50px/>
 </p>
